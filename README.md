@@ -6,43 +6,63 @@
 
 **Objective 1: Import & QA the Data**
 
-*Import the Data
-*Quality Assurance (QA)
+**.**Import the Data
+
+**.**Quality Assurance (QA)
 
 **Objective 2: Cleaning the data**
-*Handling Missing Values
-*Handling Duplicates
-*Outlier Detection
-*Data Transformation
+
+**.**Handling Missing Values
+
+**.**Handling Duplicates
+
+**.**Outlier Detection
+
+**.**Data Transformation
 
 **Objective 3: Exploring the Data**
-Descriptive Statistics
-Univariate Analysis
+
+**.**Descriptive Statistics
+
+**.**Univariate Analysis
 
 **Objective 4: Prepare the Data for Modelling**
-Feature Selection
-Feature Scaling
-Data Splitting
+
+**.**Feature Selection
+
+**.**Feature Scaling
+
+**.**Data Splitting
 
 ***Bank Churn Customer Analysis: Classification***
 
 **Objective 1: Checking Multicollinearity of the Data**
-Handling Multicollinearity
+
+**.**Handling Multicollinearity
 
 **Objective 2: More Feature Engineering & Train-Test Split**
-Feature Engineering
-Train-Test Split
+
+**.**Feature Engineering
+
+**.**Train-Test Split
 
 **Objective 3: Build & Evaluate a Logistic Regression Model**
-Logistic Regression
-Model Evaluation
-Regularization
+
+**.**Logistic Regression
+
+**.**Model Evaluation
+
+**.**Regularization
 
 **Objective 4: Fit & Tune a Random Forest Model**
-Random Forest
-Hyperparameter Tuning
-Feature Importance
-Model Evaluation
+
+**.**Random Forest
+
+**.**Hyperparameter Tuning
+
+**.**Feature Importance
+
+**.**Model Evaluation
 
 **Recommendations:**
 
