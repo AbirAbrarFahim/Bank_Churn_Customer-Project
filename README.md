@@ -5,6 +5,7 @@
 **The Situation:**
 
 **Objective 1: Import & QA the Data**
+
 *Import the Data
 *Quality Assurance (QA)
 
