@@ -12,69 +12,69 @@
 
 **Objective 2: Cleaning the data**
 
-**.**Handling Missing Values
+**.** Handling Missing Values
 
-**.**Handling Duplicates
+**.** Handling Duplicates
 
-**.**Outlier Detection
+**.** Outlier Detection
 
-**.**Data Transformation
+**.** Data Transformation
 
 **Objective 3: Exploring the Data**
 
-**.**Descriptive Statistics
+**.** Descriptive Statistics
 
-**.**Univariate Analysis
+**.** Univariate Analysis
 
 **Objective 4: Prepare the Data for Modelling**
 
-**.**Feature Selection
+**.** Feature Selection
 
-**.**Feature Scaling
+**.** Feature Scaling
 
-**.**Data Splitting
+**.** Data Splitting
 
 ***Bank Churn Customer Analysis: Classification***
 
 **Objective 1: Checking Multicollinearity of the Data**
 
-**.**Handling Multicollinearity
+**.** Handling Multicollinearity
 
 **Objective 2: More Feature Engineering & Train-Test Split**
 
-**.**Feature Engineering
+**.** Feature Engineering
 
-**.**Train-Test Split
+**.** Train-Test Split
 
 **Objective 3: Build & Evaluate a Logistic Regression Model**
 
-**.**Logistic Regression
+**.** Logistic Regression
 
-**.**Model Evaluation
+**.** Model Evaluation
 
-**.**Regularization
+**.** Regularization
 
 **Objective 4: Fit & Tune a Random Forest Model**
 
-**.**Random Forest
+**.** Random Forest
 
-**.**Hyperparameter Tuning
+**.** Hyperparameter Tuning
 
-**.**Feature Importance
+**.** Feature Importance
 
-**.**Model Evaluation
+**.** Model Evaluation
 
 **Recommendations:**
 
-*Data Quality: Clean and prepare data by addressing missing values, duplicates, and inconsistencies early in the process. High-quality data ensures better modeling 
+**.** Data Quality: Clean and prepare data by addressing missing values, duplicates, and inconsistencies early in the process. High-quality data ensures better modeling 
  results.
 
-*Feature Engineering: Carefully engineer features that are meaningful and relevant to customer churn prediction. This increases model accuracy and provides 
+**.** Feature Engineering: Carefully engineer features that are meaningful and relevant to customer churn prediction. This increases model accuracy and provides 
  insights into customer behavior.
 
-*Model Selection & Evaluation: Start with simple models like logistic regression for a baseline and then progress to more complex models like Random Forest to 
+**.** Model Selection & Evaluation: Start with simple models like logistic regression for a baseline and then progress to more complex models like Random Forest to 
  capture complex patterns. Regularly evaluate model performance using appropriate metrics.
 
-*Multicollinearity: Check for multicollinearity and remove or combine correlated features to enhance model stability.
+**.** Multicollinearity: Check for multicollinearity and remove or combine correlated features to enhance model stability.
 
-*Hyperparameter Tuning: Tuning models like Random Forest can significantly improve their performance. Use techniques like Grid Search to find optimal parameters.
+**.** Hyperparameter Tuning: Tuning models like Random Forest can significantly improve their performance. Use techniques like Grid Search to find optimal parameters.
