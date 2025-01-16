@@ -6,9 +6,9 @@
 
 **Objective 1: Import & QA the Data**
 
-**.**Import the Data
+**.** Import the Data
 
-**.**Quality Assurance (QA)
+**.** Quality Assurance (QA)
 
 **Objective 2: Cleaning the data**
 
