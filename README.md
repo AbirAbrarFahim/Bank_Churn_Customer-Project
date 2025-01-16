@@ -5,14 +5,14 @@
 **The Situation:**
 
 **Objective 1: Import & QA the Data**
-Import the Data
-Quality Assurance (QA)
+*Import the Data
+*Quality Assurance (QA)
 
 **Objective 2: Cleaning the data**
-Handling Missing Values
-Handling Duplicates
-Outlier Detection
-Data Transformation
+*Handling Missing Values
+*Handling Duplicates
+*Outlier Detection
+*Data Transformation
 
 **Objective 3: Exploring the Data**
 Descriptive Statistics
